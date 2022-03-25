@@ -1,0 +1,62 @@
+html {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+body {
+    line-height:1;
+}
+
+
+header {
+    display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
+
+ins {
+    background-color:rgb(98, 101, 104);
+    color:rgb(241, 236, 236);
+    text-decoration:none;
+}
+
+
+mark {
+    background-color:rgb(151, 151, 146);
+    color:#000;
+    font-style:italic;
+    font-weight:bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+
+hr {
+    display:block;
+    height:1px;
+    border:0;  
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+
+input, select {
+    vertical-align:middle;
+}
+
+
+* {
+    box-sizing: border-box;
+    padding: 5px;
+    margin: 2px;
+  }
