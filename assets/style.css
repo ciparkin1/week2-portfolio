@@ -40,6 +40,12 @@ header h1 {
     font-display: 100%;
 }
 
+.application {
+    width:75%;
+    padding-left: 40%;
+
+
+}
 .row {
     padding-left: 40%;
     border-radius: 33%;
@@ -137,8 +143,6 @@ main {
       flex-direction: column;
     }
 }
-
-
   
 .portfolio {
     display: flex;
@@ -148,7 +152,6 @@ main {
     align-items: center;
   }
 
-  
 h1 {
     color: var(--forgetmenot);
     font-family: Papyrus;
@@ -203,5 +206,3 @@ body {
     font-family: Arial;
     margin: 0;
   }
-
-  
