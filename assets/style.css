@@ -147,6 +147,18 @@ h1 {
     color:rgb(44, 139, 194);
 }
 
+.page-section {
+    color: var(--forgetmenot);
+    font-family: Papyrus;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    color:rgb(44, 139, 194);
+
+}
+
 .contact address {
     display: flex;
     flex-wrap: wrap;
