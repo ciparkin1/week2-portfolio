@@ -9,8 +9,8 @@
     --light: pink;
     --dark: black;
     --small: rgb(36, 150, 179);
-    --background: rgb(197, 190, 190);
-    --forgetmenot: lightblue;
+    --background: rgb(182, 211, 231);
+    --forgetmenot: rgb(114, 108, 119);
     --shadow: rgb(138, 186, 240);
 }
 
@@ -79,7 +79,7 @@ header a:hover {
     height: 300px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("marshmallows.jpeg");
+    background-image: url("assets/IMG_8311.jpeg");
     image-resolution:inherit;
     background-size: cover;
     background-position: center;
