@@ -137,13 +137,18 @@ main {
   }
 
 
-@media screen and (max-width: 768px) {
+  @media screen and (max-width: 768px) {
     main,
     nav {
-      flex-direction: column;
+      flex-direction: column; }
+    div {font-size: 20px }
+    body { background-color: var(--forgetmenot);
+    image-rendering: crisp-edges; width: auto;
+
     }
-}
-  
+    }
+
+
 .portfolio {
     display: flex;
     flex-wrap: wrap;
