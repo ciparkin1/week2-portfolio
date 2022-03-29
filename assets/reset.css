@@ -12,6 +12,12 @@ body {
     line-height:1;
 }
 
+@media screen and (max-width: 768px) {
+    main,
+    nav {
+      flex-direction: column;
+    }
+}
 
 header {
     display:block;
